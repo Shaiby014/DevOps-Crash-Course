@@ -694,4 +694,27 @@ Twitter : https://twitter.com/SaiH0s
 
 Course Instructor : Saim Safdar
 
+# Shoaib Murtaza:
+Linkedin: 
+
+Twitter:  https://twitter.com/Cloud_Shaiby
+
+# Blogs I have written
+I have written two blogs as of the writing of this commit. These can be found at medium.com and on the official Cloud Native Islamabad Twitter page @CloudNativeIslamabad.
+
+## 1. Signing Container with the Cosign.
+   
+   Medium Link:   https://medium.com/@i180496/cosign-github-and-why-do-you-need-it-499a0f5ff265
+   
+   Twitter Link: Shared on the Cloud Native Islamabad twitter Handler.
+   
+## 2. Intro to Gitsign
+   
+   Medium Link:  https://medium.com/@i180496/introduction-to-gitsign-4fd697be67f4
+   
+   Twitter Link: Shared on the Cloud Native Islamabad twitter Handler.
+   
+   couldnt be possible without the help of our Course instructor Sir Saim. Got to learn much new things hopeful for the same for the Article #3 aswell.
+   
+
 
